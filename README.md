@@ -9,7 +9,6 @@ This project presents an interactive Power BI dashboard designed to analyze Appl
 ---
 
 ## 📊 Business Key Performance Indicators (KPIs)
-
 * **Total Sales:** $1.57M
 * **Total Quantity Sold:** 22K units
 * **Total Product Count (IDs):** 5.901K
