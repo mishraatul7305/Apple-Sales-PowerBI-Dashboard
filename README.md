@@ -36,15 +36,10 @@ This project presents an interactive Power BI dashboard designed to analyze Appl
 
 ---
 
-
-
-
-
-
-
 GITHUB [https://github.com/mishraatul7305/Apple-Sales-PowerBI-Dashboard/edit/main/README.md]
 
-LIKDEIN LINK 2 [https://www.linkedin.com/feed/update/urn:li:activity:7514634841435377665/]
+
+LIKEDIN LINK 2 [https://www.linkedin.com/feed/update/urn:li:activity:7514634841435377665/]
 LINKDEIN  1 [https://www.linkedin.com/feed/update/urn:li:activity:7514558649944428544/] 
 ---
 
